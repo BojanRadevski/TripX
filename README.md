@@ -23,6 +23,28 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## SCREENSHOTS
 <img width="1470" height="834" alt="Screenshot 2026-03-05 at 23 26 42" src="https://github.com/user-attachments/assets/f40f074e-3d8b-4ab6-944c-4a375c919bfb" />
 
+FAILED LOGIN:
+
+<img width="1470" height="834" alt="Screenshot 2026-03-05 at 23 28 50" src="https://github.com/user-attachments/assets/8b85ce2e-7b5f-49e8-970d-cf63206b16f3" />
+
+#>=3 TIMES:
+
+<img width="1470" height="834" alt="Screenshot 2026-03-05 at 23 29 35" src="https://github.com/user-attachments/assets/304f9194-8428-49b6-8344-e075c196b928" />
+
+DESTINATIONS:
+
+<img width="1470" height="834" alt="Screenshot 2026-03-05 at 23 30 44" src="https://github.com/user-attachments/assets/9a7afb76-ef9c-4e14-ad6e-ffa48be75107" />
+
+SEARCH:
+
+<img width="1470" height="834" alt="Screenshot 2026-03-05 at 23 31 11" src="https://github.com/user-attachments/assets/575f25b3-21a0-4b72-8d95-f80361de1075" />
+
+ALREADY LOGGED IN:
+
+<img width="1470" height="834" alt="Screenshot 2026-03-05 at 23 31 41" src="https://github.com/user-attachments/assets/2aa379af-f3b2-4146-a11f-ca797ecdfe1a" />
+
+
+
 
 ## Learn More
 
